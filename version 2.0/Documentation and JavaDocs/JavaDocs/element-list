@@ -1,0 +1,11 @@
+analysisModule
+clientModule
+commandModule
+datafetcherModule
+factoryModule
+loginModule
+resultModule
+uiModule
+userSelectionModule
+utilitiesModule
+viewsModule

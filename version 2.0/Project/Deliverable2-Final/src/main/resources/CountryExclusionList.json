@@ -1,0 +1,32 @@
+[
+    {
+        "countryCode": 4,
+        "countryName": "Afghanistan",
+        "countryNameAbbr": "Afghanistan",
+        "countryComments": "",
+        "iso2digit": "AF",
+        "iso3digit": "AFG",
+        "startYear": 1962,
+        "endYear": "Now"
+      },
+      {
+        "countryCode": 472,
+        "countryName": "Africa CAMEU region, not elsewhere specified",
+        "countryNameAbbr": "Africa CAMEU region, nes",
+        "countryComments": "",
+        "iso2digit": "N/A",
+        "iso3digit": "N/A",
+        "startYear": 1962,
+        "endYear": "2004"
+      },
+      {
+        "countryCode": 8,
+        "countryName": "Albania",
+        "countryNameAbbr": "Albania",
+        "countryComments": "",
+        "iso2digit": "AL",
+        "iso3digit": "ALB",
+        "startYear": 1962,
+        "endYear": "Now"
+      }
+]

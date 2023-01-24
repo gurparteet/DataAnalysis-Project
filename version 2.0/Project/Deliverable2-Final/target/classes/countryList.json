@@ -1,0 +1,2942 @@
+[
+  {
+    "countryCode": 4,
+    "countryName": "Afghanistan",
+    "countryNameAbbr": "Afghanistan",
+    "countryComments": "",
+    "iso2digit": "AF",
+    "iso3digit": "AFG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 472,
+    "countryName": "Africa CAMEU region, not elsewhere specified",
+    "countryNameAbbr": "Africa CAMEU region, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 8,
+    "countryName": "Albania",
+    "countryNameAbbr": "Albania",
+    "countryComments": "",
+    "iso2digit": "AL",
+    "iso3digit": "ALB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 12,
+    "countryName": "Algeria",
+    "countryNameAbbr": "Algeria",
+    "countryComments": "",
+    "iso2digit": "DZ",
+    "iso3digit": "DZA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 16,
+    "countryName": "American Samoa",
+    "countryNameAbbr": "American Samoa",
+    "countryComments": "",
+    "iso2digit": "AS",
+    "iso3digit": "ASM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 20,
+    "countryName": "Andorra",
+    "countryNameAbbr": "Andorra",
+    "countryComments": "",
+    "iso2digit": "AD",
+    "iso3digit": "AND",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 24,
+    "countryName": "Angola",
+    "countryNameAbbr": "Angola",
+    "countryComments": "",
+    "iso2digit": "AO",
+    "iso3digit": "AGO",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 660,
+    "countryName": "Anguilla",
+    "countryNameAbbr": "Anguilla",
+    "countryComments": "",
+    "iso2digit": "AI",
+    "iso3digit": "AIA",
+    "startYear": 1981,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 10,
+    "countryName": "Antarctica",
+    "countryNameAbbr": "Antarctica",
+    "countryComments": "",
+    "iso2digit": "AQ",
+    "iso3digit": "ATA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 28,
+    "countryName": "Antigua and Barbuda",
+    "countryNameAbbr": "Antigua and Barbuda",
+    "countryComments": "",
+    "iso2digit": "AG",
+    "iso3digit": "ATA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 899,
+    "countryName": "Areas, not elsewhere specified",
+    "countryNameAbbr": "Areas, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 32,
+    "countryName": "Argentina",
+    "countryNameAbbr": "Argentina",
+    "countryComments": "",
+    "iso2digit": "AR",
+    "iso3digit": "ARG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 51,
+    "countryName": "Armenia",
+    "countryNameAbbr": "Armenia",
+    "countryComments": "",
+    "iso2digit": "AM",
+    "iso3digit": "ARM",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 533,
+    "countryName": "Aruba",
+    "countryNameAbbr": "Aruba",
+    "countryComments": "",
+    "iso2digit": "AW",
+    "iso3digit": "ABW",
+    "startYear": 1988,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 36,
+    "countryName": "Australia",
+    "countryNameAbbr": "Australia",
+    "countryComments": "",
+    "iso2digit": "AU",
+    "iso3digit": "AUS",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 40,
+    "countryName": "Austria",
+    "countryNameAbbr": "Austria",
+    "countryComments": "",
+    "iso2digit": "AT",
+    "iso3digit": "AUT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 31,
+    "countryName": "Azerbaijan",
+    "countryNameAbbr": "Azerbaijan",
+    "countryComments": "",
+    "iso2digit": "AZ",
+    "iso3digit": "AZE",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 44,
+    "countryName": "Bahamas",
+    "countryNameAbbr": "Bahamas",
+    "countryComments": "",
+    "iso2digit": "BS",
+    "iso3digit": "BHS",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 48,
+    "countryName": "Bahrain",
+    "countryNameAbbr": "Bahrain",
+    "countryComments": "",
+    "iso2digit": "BH",
+    "iso3digit": "BHR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 50,
+    "countryName": "Bangladesh",
+    "countryNameAbbr": "Bangladesh",
+    "countryComments": "",
+    "iso2digit": "BD",
+    "iso3digit": "BGD",
+    "startYear": 1972,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 52,
+    "countryName": "Barbados",
+    "countryNameAbbr": "Barbados",
+    "countryComments": "",
+    "iso2digit": "BB",
+    "iso3digit": "BRB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 112,
+    "countryName": "Belarus",
+    "countryNameAbbr": "Belarus",
+    "countryComments": "",
+    "iso2digit": "BY",
+    "iso3digit": "BLR",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 56,
+    "countryName": "Belgium",
+    "countryNameAbbr": "Belgium",
+    "countryComments": "",
+    "iso2digit": "BE",
+    "iso3digit": "BEL",
+    "startYear": 1999,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 58,
+    "countryName": "Belgium-Luxembourg",
+    "countryNameAbbr": "Belgium-Luxembourg",
+    "countryComments": "",
+    "iso2digit": "BE",
+    "iso3digit": "BEL",
+    "startYear": 1962,
+    "endYear": "1998"
+  },
+  {
+    "countryCode": 84,
+    "countryName": "Belize",
+    "countryNameAbbr": "Belize",
+    "countryComments": "",
+    "iso2digit": "BZ",
+    "iso3digit": "BLZ",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 204,
+    "countryName": "Benin",
+    "countryNameAbbr": "Benin",
+    "countryComments": "",
+    "iso2digit": "BJ",
+    "iso3digit": "BEN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 60,
+    "countryName": "Bermuda",
+    "countryNameAbbr": "Bermuda",
+    "countryComments": "",
+    "iso2digit": "BM",
+    "iso3digit": "BMU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 64,
+    "countryName": "Bhutan",
+    "countryNameAbbr": "Bhutan",
+    "countryComments": "",
+    "iso2digit": "BT",
+    "iso3digit": "BTN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 68,
+    "countryName": "Plurinational State of Bolivia",
+    "countryNameAbbr": "Bolivia (Plurinational State of)",
+    "countryComments": "",
+    "iso2digit": "BO",
+    "iso3digit": "BOL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 535,
+    "countryName": "Bonaire, Saint Eustatius and Saba",
+    "countryNameAbbr": "Bonaire",
+    "countryComments": "",
+    "iso2digit": "BQ",
+    "iso3digit": "BES",
+    "startYear": 2011,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 70,
+    "countryName": "Bosnia Herzegovina",
+    "countryNameAbbr": "Bosnia Herzegovina",
+    "countryComments": "",
+    "iso2digit": "BA",
+    "iso3digit": "BIH",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 72,
+    "countryName": "Botswana",
+    "countryNameAbbr": "Botswana",
+    "countryComments": "",
+    "iso2digit": "BW",
+    "iso3digit": "BWA",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 74,
+    "countryName": "Ile Bouvet",
+    "countryNameAbbr": "Bouvet Island",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 80,
+    "countryName": "British Antarctic Territories",
+    "countryNameAbbr": "Br. Antarctic Terr.",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 86,
+    "countryName": "British Indian Ocean Territories",
+    "countryNameAbbr": "Br. Indian Ocean Terr.",
+    "countryComments": "",
+    "iso2digit": "IO",
+    "iso3digit": "IOT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 92,
+    "countryName": "British Virgin Islands",
+    "countryNameAbbr": "Br. Virgin Isds",
+    "countryComments": "",
+    "iso2digit": "VG",
+    "iso3digit": "VGB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 76,
+    "countryName": "Brazil",
+    "countryNameAbbr": "Brazil",
+    "countryComments": "",
+    "iso2digit": "BR",
+    "iso3digit": "BRA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 96,
+    "countryName": "Brunei Darussalam",
+    "countryNameAbbr": "Brunei Darussalam",
+    "countryComments": "",
+    "iso2digit": "BN",
+    "iso3digit": "BRN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 100,
+    "countryName": "Bulgaria",
+    "countryNameAbbr": "Bulgaria",
+    "countryComments": "",
+    "iso2digit": "BG",
+    "iso3digit": "BGR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 837,
+    "countryName": "Bunkers",
+    "countryNameAbbr": "Bunkers",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 854,
+    "countryName": "Burkina Faso",
+    "countryNameAbbr": "Burkina Faso",
+    "countryComments": "",
+    "iso2digit": "BF",
+    "iso3digit": "BFA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 108,
+    "countryName": "Burundi",
+    "countryNameAbbr": "Burundi",
+    "countryComments": "",
+    "iso2digit": "BI",
+    "iso3digit": "BDI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 132,
+    "countryName": "Cabo Verde",
+    "countryNameAbbr": "Cabo Verde",
+    "countryComments": "",
+    "iso2digit": "CV",
+    "iso3digit": "CPV",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 471,
+    "countryName": "CACM, not elsewhere specified",
+    "countryNameAbbr": "CACM, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 116,
+    "countryName": "Cambodia",
+    "countryNameAbbr": "Cambodia",
+    "countryComments": "",
+    "iso2digit": "KH",
+    "iso3digit": "KHM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 120,
+    "countryName": "Cameroon",
+    "countryNameAbbr": "Cameroon",
+    "countryComments": "",
+    "iso2digit": "CM",
+    "iso3digit": "CMR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 124,
+    "countryName": "Canada",
+    "countryNameAbbr": "Canada",
+    "countryComments": "",
+    "iso2digit": "CA",
+    "iso3digit": "CAN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 129,
+    "countryName": "Caribbean, not elsewhere specified",
+    "countryNameAbbr": "Caribbean, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 136,
+    "countryName": "Cayman Islands",
+    "countryNameAbbr": "Cayman Isds",
+    "countryComments": "",
+    "iso2digit": "KY",
+    "iso3digit": "CYM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 140,
+    "countryName": "Central African Republic",
+    "countryNameAbbr": "Central African Rep.",
+    "countryComments": "",
+    "iso2digit": "CF",
+    "iso3digit": "CAF",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 148,
+    "countryName": "Chad",
+    "countryNameAbbr": "Chad",
+    "countryComments": "",
+    "iso2digit": "TD",
+    "iso3digit": "TCD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 152,
+    "countryName": "Chile",
+    "countryNameAbbr": "Chile",
+    "countryComments": "",
+    "iso2digit": "CL",
+    "iso3digit": "CHL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 156,
+    "countryName": "China",
+    "countryNameAbbr": "China",
+    "countryComments": "",
+    "iso2digit": "CN",
+    "iso3digit": "CHN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 344,
+    "countryName": "China, Hong Kong Special Administrative Region",
+    "countryNameAbbr": "China, Hong Kong SAR",
+    "countryComments": "",
+    "iso2digit": "HK",
+    "iso3digit": "HKG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 446,
+    "countryName": "China, Macao Special Administrative Region",
+    "countryNameAbbr": "China, Macao SAR",
+    "countryComments": "",
+    "iso2digit": "MO",
+    "iso3digit": "MAC",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 162,
+    "countryName": "Christmas Islands",
+    "countryNameAbbr": "Christmas Isds",
+    "countryComments": "",
+    "iso2digit": "CX",
+    "iso3digit": "CXR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 166,
+    "countryName": "Cocos Islands",
+    "countryNameAbbr": "Cocos Isds",
+    "countryComments": "",
+    "iso2digit": "CC",
+    "iso3digit": "CCK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 170,
+    "countryName": "Colombia",
+    "countryNameAbbr": "Colombia",
+    "countryComments": "",
+    "iso2digit": "CO",
+    "iso3digit": "COL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 174,
+    "countryName": "Comoros",
+    "countryNameAbbr": "Comoros",
+    "countryComments": "",
+    "iso2digit": "KM",
+    "iso3digit": "COM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 178,
+    "countryName": "Congo",
+    "countryNameAbbr": "Congo",
+    "countryComments": "",
+    "iso2digit": "CG",
+    "iso3digit": "COG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 184,
+    "countryName": "Cook Islands",
+    "countryNameAbbr": "Cook Isds",
+    "countryComments": "",
+    "iso2digit": "CK",
+    "iso3digit": "COK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 188,
+    "countryName": "Costa Rica",
+    "countryNameAbbr": "Costa Rica",
+    "countryComments": "",
+    "iso2digit": "CR",
+    "iso3digit": "CRI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 384,
+    "countryName": "C“te d'Ivoire",
+    "countryNameAbbr": "C“te d'Ivoire",
+    "countryComments": "",
+    "iso2digit": "CI",
+    "iso3digit": "CIV",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 191,
+    "countryName": "Croatia",
+    "countryNameAbbr": "Croatia",
+    "countryComments": "",
+    "iso2digit": "HR",
+    "iso3digit": "HRV",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 192,
+    "countryName": "Cuba",
+    "countryNameAbbr": "Cuba",
+    "countryComments": "",
+    "iso2digit": "CU",
+    "iso3digit": "CUB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 531,
+    "countryName": "Cura‡ao",
+    "countryNameAbbr": "Cura‡ao",
+    "countryComments": "",
+    "iso2digit": "CW",
+    "iso3digit": "CUW",
+    "startYear": 2010,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 196,
+    "countryName": "Cyprus",
+    "countryNameAbbr": "Cyprus",
+    "countryComments": "",
+    "iso2digit": "CY",
+    "iso3digit": "CYP",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 203,
+    "countryName": "Czechia",
+    "countryNameAbbr": "Czechia",
+    "countryComments": "",
+    "iso2digit": "CZ",
+    "iso3digit": "CZE",
+    "startYear": 1993,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 200,
+    "countryName": "Czechoslovakia",
+    "countryNameAbbr": "Czechoslovakia",
+    "countryComments": "",
+    "iso2digit": "CS",
+    "iso3digit": "CSK",
+    "startYear": 1962,
+    "endYear": "1992"
+  },
+  {
+    "countryCode": 408,
+    "countryName": "Democratic People's Republic of Korea",
+    "countryNameAbbr": "Dem. People's Rep. of Korea",
+    "countryComments": "",
+    "iso2digit": "KP",
+    "iso3digit": "PRK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 180,
+    "countryName": "Democratic Republic of the Congo",
+    "countryNameAbbr": "Dem. Rep. of the Congo",
+    "countryComments": "",
+    "iso2digit": "CD",
+    "iso3digit": "COD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 208,
+    "countryName": "Denmark",
+    "countryNameAbbr": "Denmark",
+    "countryComments": "",
+    "iso2digit": "DK",
+    "iso3digit": "DNK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 262,
+    "countryName": "Djibouti",
+    "countryNameAbbr": "Djibouti",
+    "countryComments": "",
+    "iso2digit": "DJ",
+    "iso3digit": "DJI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 212,
+    "countryName": "Dominica",
+    "countryNameAbbr": "Dominica",
+    "countryComments": "",
+    "iso2digit": "DM",
+    "iso3digit": "DMA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 214,
+    "countryName": "Dominican Republic",
+    "countryNameAbbr": "Dominican Rep.",
+    "countryComments": "",
+    "iso2digit": "DO",
+    "iso3digit": "DOM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 588,
+    "countryName": "East and West Pakistan",
+    "countryNameAbbr": "East and West Pakistan",
+    "countryComments": "",
+    "iso2digit": "PK",
+    "iso3digit": "PAK",
+    "startYear": 1962,
+    "endYear": "1971"
+  },
+  {
+    "countryCode": 221,
+    "countryName": "Eastern Europe, not elsewhere specified",
+    "countryNameAbbr": "Eastern Europe, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 218,
+    "countryName": "Ecuador",
+    "countryNameAbbr": "Ecuador",
+    "countryComments": "",
+    "iso2digit": "EC",
+    "iso3digit": "ECU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 818,
+    "countryName": "Egypt",
+    "countryNameAbbr": "Egypt",
+    "countryComments": "",
+    "iso2digit": "EG",
+    "iso3digit": "EGY",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 222,
+    "countryName": "El Salvador",
+    "countryNameAbbr": "El Salvador",
+    "countryComments": "",
+    "iso2digit": "SV",
+    "iso3digit": "SLV",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 226,
+    "countryName": "Equatorial Guinea",
+    "countryNameAbbr": "Equatorial Guinea",
+    "countryComments": "",
+    "iso2digit": "GQ",
+    "iso3digit": "GNQ",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 232,
+    "countryName": "Eritrea",
+    "countryNameAbbr": "Eritrea",
+    "countryComments": "",
+    "iso2digit": "ER",
+    "iso3digit": "ERI",
+    "startYear": 1993,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 233,
+    "countryName": "Estonia",
+    "countryNameAbbr": "Estonia",
+    "countryComments": "",
+    "iso2digit": "EE",
+    "iso3digit": "EST",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 231,
+    "countryName": "Ethiopia",
+    "countryNameAbbr": "Ethiopia",
+    "countryComments": "",
+    "iso2digit": "ET",
+    "iso3digit": "ETH",
+    "startYear": 1993,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 97,
+    "countryName": "EU-28",
+    "countryNameAbbr": "EU-28",
+    "countryComments": "",
+    "iso2digit": "EU",
+    "iso3digit": "EU2",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 697,
+    "countryName": "Europe EFTA, not elsewhere specified",
+    "countryNameAbbr": "Europe EFTA, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 492,
+    "countryName": "Europe EU, not elsewhere specified",
+    "countryNameAbbr": "Europe EU, nes",
+    "countryComments": "Code 492 is mapped to code 568 since 2005",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 234,
+    "countryName": "Faeroe Islands",
+    "countryNameAbbr": "Faeroe Isds",
+    "countryComments": "",
+    "iso2digit": "FO",
+    "iso3digit": "FRO",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 238,
+    "countryName": "Falkland Islands (Malvinas)",
+    "countryNameAbbr": "Falkland Isds (Malvinas)",
+    "countryComments": "",
+    "iso2digit": "FK",
+    "iso3digit": "FLK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 242,
+    "countryName": "Fiji",
+    "countryNameAbbr": "Fiji",
+    "countryComments": "",
+    "iso2digit": "FJ",
+    "iso3digit": "FJI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 246,
+    "countryName": "Finland",
+    "countryNameAbbr": "Finland",
+    "countryComments": "",
+    "iso2digit": "FI",
+    "iso3digit": "FIN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 886,
+    "countryName": "Former Arab Republic of Yemen",
+    "countryNameAbbr": "Fmr Arab Rep. of Yemen",
+    "countryComments": "",
+    "iso2digit": "YE",
+    "iso3digit": "YEM",
+    "startYear": 1962,
+    "endYear": "1990"
+  },
+  {
+    "countryCode": 278,
+    "countryName": "Former Democratic Republic of Germany",
+    "countryNameAbbr": "Fmr Dem. Rep. of Germany",
+    "countryComments": "",
+    "iso2digit": "DD",
+    "iso3digit": "DDR",
+    "startYear": 1962,
+    "endYear": "1990"
+  },
+  {
+    "countryCode": 866,
+    "countryName": "Former Democratic Republic of Vietnam",
+    "countryNameAbbr": "Fmr Dem. Rep. of Vietnam",
+    "countryComments": "",
+    "iso2digit": "VD",
+    "iso3digit": "VDR",
+    "startYear": 1962,
+    "endYear": "1974"
+  },
+  {
+    "countryCode": 720,
+    "countryName": "Former Democratic Yemen",
+    "countryNameAbbr": "Fmr Dem. Yemen",
+    "countryComments": "",
+    "iso2digit": "YD",
+    "iso3digit": "YMD",
+    "startYear": 1962,
+    "endYear": "1990"
+  },
+  {
+    "countryCode": 230,
+    "countryName": "Former Ethiopia",
+    "countryNameAbbr": "Fmr Ethiopia",
+    "countryComments": "",
+    "iso2digit": "ET",
+    "iso3digit": "ETH",
+    "startYear": 1962,
+    "endYear": "1992"
+  },
+  {
+    "countryCode": 280,
+    "countryName": "Former Federal Republic of Germany",
+    "countryNameAbbr": "Fmr Fed. Rep. of Germany",
+    "countryComments": "",
+    "iso2digit": "DE",
+    "iso3digit": "DEU",
+    "startYear": 1962,
+    "endYear": "1990"
+  },
+  {
+    "countryCode": 582,
+    "countryName": "Former Pacific Islands",
+    "countryNameAbbr": "Fmr Pacific Isds",
+    "countryComments": "",
+    "iso2digit": "PC",
+    "iso3digit": "PCI",
+    "startYear": 1962,
+    "endYear": "1991"
+  },
+  {
+    "countryCode": 590,
+    "countryName": "Former Panama, excluding Canal Zone",
+    "countryNameAbbr": "Fmr Panama, excl.Canal Zone",
+    "countryComments": "",
+    "iso2digit": "PA",
+    "iso3digit": "PAN",
+    "startYear": 1962,
+    "endYear": "1977"
+  },
+  {
+    "countryCode": 592,
+    "countryName": "Former Panama-Canal-Zone",
+    "countryNameAbbr": "Fmr Panama-Canal-Zone",
+    "countryComments": "",
+    "iso2digit": "PZ",
+    "iso3digit": "PCZ",
+    "startYear": 1962,
+    "endYear": "1977"
+  },
+  {
+    "countryCode": 868,
+    "countryName": "Former Republic of Vietnam",
+    "countryNameAbbr": "Fmr Rep. of Vietnam",
+    "countryComments": "",
+    "iso2digit": "VN",
+    "iso3digit": "VNM",
+    "startYear": 1962,
+    "endYear": "1974"
+  },
+  {
+    "countryCode": 717,
+    "countryName": "Former Rhodesia Nyas",
+    "countryNameAbbr": "Fmr Rhodesia Nyas",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1964"
+  },
+  {
+    "countryCode": 736,
+    "countryName": "Former Sudan",
+    "countryNameAbbr": "Fmr Sudan",
+    "countryComments": "",
+    "iso2digit": "SD",
+    "iso3digit": "SDN",
+    "startYear": 1962,
+    "endYear": "2011"
+  },
+  {
+    "countryCode": 835,
+    "countryName": "Former Tanganyika",
+    "countryNameAbbr": "Fmr Tanganyika",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1964"
+  },
+  {
+    "countryCode": 810,
+    "countryName": "Former USSR",
+    "countryNameAbbr": "Fmr USSR",
+    "countryComments": "",
+    "iso2digit": "SU",
+    "iso3digit": "SUN",
+    "startYear": 1962,
+    "endYear": "1991"
+  },
+  {
+    "countryCode": 890,
+    "countryName": "Former Yugoslavia",
+    "countryNameAbbr": "Fmr Yugoslavia",
+    "countryComments": "In 1992 including TFYR of Macedonia",
+    "iso2digit": "YU",
+    "iso3digit": "YUG",
+    "startYear": 1962,
+    "endYear": "1991"
+  },
+  {
+    "countryCode": 836,
+    "countryName": "Former Zanzibar and Pemba Island",
+    "countryNameAbbr": "Fmr Zanzibar and Pemba Isd",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1964"
+  },
+  {
+    "countryCode": 260,
+    "countryName": "French South Antarctic Territories",
+    "countryNameAbbr": "Fr. South Antarctic Terr.",
+    "countryComments": "",
+    "iso2digit": "FQ",
+    "iso3digit": "ATF",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 251,
+    "countryName": "France, Monaco",
+    "countryNameAbbr": "France",
+    "countryComments": "Including Monaco",
+    "iso2digit": "FR",
+    "iso3digit": "FRA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 838,
+    "countryName": "Free Zones",
+    "countryNameAbbr": "Free Zones",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 254,
+    "countryName": "French Guiana",
+    "countryNameAbbr": "French Guiana",
+    "countryComments": "",
+    "iso2digit": "GF",
+    "iso3digit": "GUF",
+    "startYear": 1962,
+    "endYear": "1995"
+  },
+  {
+    "countryCode": 258,
+    "countryName": "French Polynesia",
+    "countryNameAbbr": "French Polynesia",
+    "countryComments": "",
+    "iso2digit": "PF",
+    "iso3digit": "PYF",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 583,
+    "countryName": "Federated State of Micronesia",
+    "countryNameAbbr": "FS Micronesia",
+    "countryComments": "",
+    "iso2digit": "FM",
+    "iso3digit": "FSM",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 266,
+    "countryName": "Gabon",
+    "countryNameAbbr": "Gabon",
+    "countryComments": "",
+    "iso2digit": "GA",
+    "iso3digit": "GAB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 270,
+    "countryName": "Gambia",
+    "countryNameAbbr": "Gambia",
+    "countryComments": "",
+    "iso2digit": "GM",
+    "iso3digit": "GMB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 268,
+    "countryName": "Georgia",
+    "countryNameAbbr": "Georgia",
+    "countryComments": "",
+    "iso2digit": "GE",
+    "iso3digit": "GEO",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 276,
+    "countryName": "Germany",
+    "countryNameAbbr": "Germany",
+    "countryComments": "",
+    "iso2digit": "DE",
+    "iso3digit": "DEU",
+    "startYear": 1991,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 288,
+    "countryName": "Ghana",
+    "countryNameAbbr": "Ghana",
+    "countryComments": "",
+    "iso2digit": "GH",
+    "iso3digit": "GHA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 292,
+    "countryName": "Gibraltar",
+    "countryNameAbbr": "Gibraltar",
+    "countryComments": "",
+    "iso2digit": "GI",
+    "iso3digit": "GIB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 300,
+    "countryName": "Greece",
+    "countryNameAbbr": "Greece",
+    "countryComments": "",
+    "iso2digit": "GR",
+    "iso3digit": "GRC",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 304,
+    "countryName": "Greenland",
+    "countryNameAbbr": "Greenland",
+    "countryComments": "",
+    "iso2digit": "GL",
+    "iso3digit": "GRL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 308,
+    "countryName": "Grenada",
+    "countryNameAbbr": "Grenada",
+    "countryComments": "",
+    "iso2digit": "GD",
+    "iso3digit": "GRD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 312,
+    "countryName": "Guadeloupe",
+    "countryNameAbbr": "Guadeloupe",
+    "countryComments": "",
+    "iso2digit": "GP",
+    "iso3digit": "GLP",
+    "startYear": 1962,
+    "endYear": "1995"
+  },
+  {
+    "countryCode": 316,
+    "countryName": "Guam",
+    "countryNameAbbr": "Guam",
+    "countryComments": "",
+    "iso2digit": "GU",
+    "iso3digit": "GUM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 320,
+    "countryName": "Guatemala",
+    "countryNameAbbr": "Guatemala",
+    "countryComments": "",
+    "iso2digit": "GT",
+    "iso3digit": "GTM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 324,
+    "countryName": "Guinea",
+    "countryNameAbbr": "Guinea",
+    "countryComments": "",
+    "iso2digit": "GN",
+    "iso3digit": "GIN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 624,
+    "countryName": "Guinea-Bissau",
+    "countryNameAbbr": "Guinea-Bissau",
+    "countryComments": "",
+    "iso2digit": "GW",
+    "iso3digit": "GNB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 328,
+    "countryName": "Guyana",
+    "countryNameAbbr": "Guyana",
+    "countryComments": "",
+    "iso2digit": "GY",
+    "iso3digit": "GUY",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 332,
+    "countryName": "Haiti",
+    "countryNameAbbr": "Haiti",
+    "countryComments": "",
+    "iso2digit": "HT",
+    "iso3digit": "HTI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 334,
+    "countryName": "Heard Island and McDonald Islands",
+    "countryNameAbbr": "Heard Island and McDonald Islands",
+    "countryComments": "",
+    "iso2digit": "HM",
+    "iso3digit": "HMD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 336,
+    "countryName": "Holy See (Vatican City State)",
+    "countryNameAbbr": "Holy See (Vatican City State)",
+    "countryComments": "",
+    "iso2digit": "VA",
+    "iso3digit": "VAT",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 340,
+    "countryName": "Honduras",
+    "countryNameAbbr": "Honduras",
+    "countryComments": "",
+    "iso2digit": "HN",
+    "iso3digit": "HND",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 348,
+    "countryName": "Hungary",
+    "countryNameAbbr": "Hungary",
+    "countryComments": "",
+    "iso2digit": "HU",
+    "iso3digit": "HUN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 352,
+    "countryName": "Iceland",
+    "countryNameAbbr": "Iceland",
+    "countryComments": "",
+    "iso2digit": "IS",
+    "iso3digit": "ISL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 699,
+    "countryName": "India",
+    "countryNameAbbr": "India",
+    "countryComments": "",
+    "iso2digit": "IN",
+    "iso3digit": "IND",
+    "startYear": 1975,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 356,
+    "countryName": "India, excluding Sikkim",
+    "countryNameAbbr": "India, excl. Sikkim",
+    "countryComments": "",
+    "iso2digit": "IN",
+    "iso3digit": "IND",
+    "startYear": 1962,
+    "endYear": "1974"
+  },
+  {
+    "countryCode": 360,
+    "countryName": "Indonesia",
+    "countryNameAbbr": "Indonesia",
+    "countryComments": "",
+    "iso2digit": "ID",
+    "iso3digit": "IDN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 364,
+    "countryName": "Iran",
+    "countryNameAbbr": "Iran",
+    "countryComments": "",
+    "iso2digit": "IR",
+    "iso3digit": "IRN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 368,
+    "countryName": "Iraq",
+    "countryNameAbbr": "Iraq",
+    "countryComments": "",
+    "iso2digit": "IQ",
+    "iso3digit": "IRQ",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 372,
+    "countryName": "Ireland",
+    "countryNameAbbr": "Ireland",
+    "countryComments": "",
+    "iso2digit": "IE",
+    "iso3digit": "IRL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 376,
+    "countryName": "Israel",
+    "countryNameAbbr": "Israel",
+    "countryComments": "",
+    "iso2digit": "IL",
+    "iso3digit": "ISR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 381,
+    "countryName": "Italy",
+    "countryNameAbbr": "Italy",
+    "countryComments": "",
+    "iso2digit": "IT",
+    "iso3digit": "ITA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 388,
+    "countryName": "Jamaica",
+    "countryNameAbbr": "Jamaica",
+    "countryComments": "",
+    "iso2digit": "JM",
+    "iso3digit": "JAM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 392,
+    "countryName": "Japan",
+    "countryNameAbbr": "Japan",
+    "countryComments": "",
+    "iso2digit": "JP",
+    "iso3digit": "JPN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 400,
+    "countryName": "Jordan",
+    "countryNameAbbr": "Jordan",
+    "countryComments": "",
+    "iso2digit": "JO",
+    "iso3digit": "JOR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 398,
+    "countryName": "Kazakhstan",
+    "countryNameAbbr": "Kazakhstan",
+    "countryComments": "",
+    "iso2digit": "KZ",
+    "iso3digit": "KAZ",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 404,
+    "countryName": "Kenya",
+    "countryNameAbbr": "Kenya",
+    "countryComments": "",
+    "iso2digit": "KE",
+    "iso3digit": "KEN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 296,
+    "countryName": "Kiribati",
+    "countryNameAbbr": "Kiribati",
+    "countryComments": "",
+    "iso2digit": "KI",
+    "iso3digit": "KIR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 414,
+    "countryName": "Kuwait",
+    "countryNameAbbr": "Kuwait",
+    "countryComments": "",
+    "iso2digit": "KW",
+    "iso3digit": "KWT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 417,
+    "countryName": "Kyrgyzstan",
+    "countryNameAbbr": "Kyrgyzstan",
+    "countryComments": "",
+    "iso2digit": "KG",
+    "iso3digit": "KGZ",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 473,
+    "countryName": "LAIA, not elsewhere specified",
+    "countryNameAbbr": "LAIA, nes",
+    "countryComments": "",
+    "iso2digit": "N/",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 418,
+    "countryName": "Lao People's Dem. Rep.",
+    "countryNameAbbr": "Lao People's Dem. Rep.",
+    "countryComments": "",
+    "iso2digit": "LA",
+    "iso3digit": "LAO",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 428,
+    "countryName": "Latvia",
+    "countryNameAbbr": "Latvia",
+    "countryComments": "",
+    "iso2digit": "LV",
+    "iso3digit": "LVA",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 422,
+    "countryName": "Lebanon",
+    "countryNameAbbr": "Lebanon",
+    "countryComments": "",
+    "iso2digit": "LB",
+    "iso3digit": "LBN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 426,
+    "countryName": "Lesotho",
+    "countryNameAbbr": "Lesotho",
+    "countryComments": "",
+    "iso2digit": "LS",
+    "iso3digit": "LSO",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 430,
+    "countryName": "Liberia",
+    "countryNameAbbr": "Liberia",
+    "countryComments": "",
+    "iso2digit": "LR",
+    "iso3digit": "LBR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 434,
+    "countryName": "Libya",
+    "countryNameAbbr": "Libya",
+    "countryComments": "",
+    "iso2digit": "LY",
+    "iso3digit": "LBY",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 440,
+    "countryName": "Lithuania",
+    "countryNameAbbr": "Lithuania",
+    "countryComments": "",
+    "iso2digit": "LT",
+    "iso3digit": "LTU",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 442,
+    "countryName": "Luxembourg",
+    "countryNameAbbr": "Luxembourg",
+    "countryComments": "",
+    "iso2digit": "LU",
+    "iso3digit": "LUX",
+    "startYear": 1999,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 450,
+    "countryName": "Madagascar",
+    "countryNameAbbr": "Madagascar",
+    "countryComments": "",
+    "iso2digit": "MG",
+    "iso3digit": "MDG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 454,
+    "countryName": "Malawi",
+    "countryNameAbbr": "Malawi",
+    "countryComments": "",
+    "iso2digit": "MW",
+    "iso3digit": "MWI",
+    "startYear": 1965,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 458,
+    "countryName": "Malaysia",
+    "countryNameAbbr": "Malaysia",
+    "countryComments": "",
+    "iso2digit": "MY",
+    "iso3digit": "MYS",
+    "startYear": 1964,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 462,
+    "countryName": "Maldives",
+    "countryNameAbbr": "Maldives",
+    "countryComments": "",
+    "iso2digit": "MV",
+    "iso3digit": "MDV",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 466,
+    "countryName": "Mali",
+    "countryNameAbbr": "Mali",
+    "countryComments": "",
+    "iso2digit": "ML",
+    "iso3digit": "MLI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 470,
+    "countryName": "Malta",
+    "countryNameAbbr": "Malta",
+    "countryComments": "",
+    "iso2digit": "MT",
+    "iso3digit": "MLT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 584,
+    "countryName": "Marshall Islands",
+    "countryNameAbbr": "Marshall Isds",
+    "countryComments": "",
+    "iso2digit": "MH",
+    "iso3digit": "MHL",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 474,
+    "countryName": "Martinique",
+    "countryNameAbbr": "Martinique",
+    "countryComments": "",
+    "iso2digit": "MQ",
+    "iso3digit": "MTQ",
+    "startYear": 1962,
+    "endYear": "1995"
+  },
+  {
+    "countryCode": 478,
+    "countryName": "Mauritania",
+    "countryNameAbbr": "Mauritania",
+    "countryComments": "",
+    "iso2digit": "MR",
+    "iso3digit": "MRT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 480,
+    "countryName": "Mauritius",
+    "countryNameAbbr": "Mauritius",
+    "countryComments": "",
+    "iso2digit": "MU",
+    "iso3digit": "MUS",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 175,
+    "countryName": "Mayotte",
+    "countryNameAbbr": "Mayotte",
+    "countryComments": "",
+    "iso2digit": "YT",
+    "iso3digit": "MYT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 484,
+    "countryName": "Mexico",
+    "countryNameAbbr": "Mexico",
+    "countryComments": "",
+    "iso2digit": "MX",
+    "iso3digit": "MEX",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 496,
+    "countryName": "Mongolia",
+    "countryNameAbbr": "Mongolia",
+    "countryComments": "",
+    "iso2digit": "MN",
+    "iso3digit": "MNG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 499,
+    "countryName": "Montenegro",
+    "countryNameAbbr": "Montenegro",
+    "countryComments": "",
+    "iso2digit": "ME",
+    "iso3digit": "MNE",
+    "startYear": 2006,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 500,
+    "countryName": "Montserrat",
+    "countryNameAbbr": "Montserrat",
+    "countryComments": "",
+    "iso2digit": "MS",
+    "iso3digit": "MSR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 504,
+    "countryName": "Morocco",
+    "countryNameAbbr": "Morocco",
+    "countryComments": "",
+    "iso2digit": "MA",
+    "iso3digit": "MAR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 508,
+    "countryName": "Mozambique",
+    "countryNameAbbr": "Mozambique",
+    "countryComments": "",
+    "iso2digit": "MZ",
+    "iso3digit": "MOZ",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 104,
+    "countryName": "Myanmar",
+    "countryNameAbbr": "Myanmar",
+    "countryComments": "",
+    "iso2digit": "MM",
+    "iso3digit": "MMR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 580,
+    "countryName": "Northern Mariana Islands",
+    "countryNameAbbr": "N. Mariana Isds",
+    "countryComments": "",
+    "iso2digit": "MP",
+    "iso3digit": "MNP",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 516,
+    "countryName": "Namibia",
+    "countryNameAbbr": "Namibia",
+    "countryComments": "",
+    "iso2digit": "NA",
+    "iso3digit": "NAM",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 520,
+    "countryName": "Nauru",
+    "countryNameAbbr": "Nauru",
+    "countryComments": "",
+    "iso2digit": "NR",
+    "iso3digit": "NRU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 524,
+    "countryName": "Nepal",
+    "countryNameAbbr": "Nepal",
+    "countryComments": "",
+    "iso2digit": "NP",
+    "iso3digit": "NPL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 530,
+    "countryName": "Netherlands Antilles",
+    "countryNameAbbr": "Neth. Antilles",
+    "countryComments": "",
+    "iso2digit": "AN",
+    "iso3digit": "ANT",
+    "startYear": 1988,
+    "endYear": "2010"
+  },
+  {
+    "countryCode": 532,
+    "countryName": "Netherlands Antilles and Aruba",
+    "countryNameAbbr": "Neth. Antilles and Aruba",
+    "countryComments": "",
+    "iso2digit": "AN",
+    "iso3digit": "ANT",
+    "startYear": 1962,
+    "endYear": "1987"
+  },
+  {
+    "countryCode": 528,
+    "countryName": "Netherlands",
+    "countryNameAbbr": "Netherlands",
+    "countryComments": "",
+    "iso2digit": "NL",
+    "iso3digit": "NLD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 536,
+    "countryName": "Neutral Zone",
+    "countryNameAbbr": "Neutral Zone",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 540,
+    "countryName": "New Caledonia",
+    "countryNameAbbr": "New Caledonia",
+    "countryComments": "",
+    "iso2digit": "NC",
+    "iso3digit": "NCL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 554,
+    "countryName": "New Zealand",
+    "countryNameAbbr": "New Zealand",
+    "countryComments": "",
+    "iso2digit": "NZ",
+    "iso3digit": "NZL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 558,
+    "countryName": "Nicaragua",
+    "countryNameAbbr": "Nicaragua",
+    "countryComments": "",
+    "iso2digit": "NI",
+    "iso3digit": "NIC",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 562,
+    "countryName": "Niger",
+    "countryNameAbbr": "Niger",
+    "countryComments": "",
+    "iso2digit": "NE",
+    "iso3digit": "NER",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 566,
+    "countryName": "Nigeria",
+    "countryNameAbbr": "Nigeria",
+    "countryComments": "",
+    "iso2digit": "NG",
+    "iso3digit": "NGA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 570,
+    "countryName": "Niue",
+    "countryNameAbbr": "Niue",
+    "countryComments": "",
+    "iso2digit": "NU",
+    "iso3digit": "NIU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 574,
+    "countryName": "Norfolk Islands",
+    "countryNameAbbr": "Norfolk Isds",
+    "countryComments": "",
+    "iso2digit": "NF",
+    "iso3digit": "NFK",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 637,
+    "countryName": "North America, the Caribbean and Central America not elsewhere specified",
+    "countryNameAbbr": "North America and Central America, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 290,
+    "countryName": "Northern Africa, not elsewhere specified",
+    "countryNameAbbr": "Northern Africa, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 579,
+    "countryName": "Norway, Svalbard and Jan Mayen",
+    "countryNameAbbr": "Norway",
+    "countryComments": "Including Svalbard and Jan Mayen",
+    "iso2digit": "NO",
+    "iso3digit": "NOR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 527,
+    "countryName": "Oceania, not elsewhere specified",
+    "countryNameAbbr": "Oceania, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 512,
+    "countryName": "Oman",
+    "countryNameAbbr": "Oman",
+    "countryComments": "",
+    "iso2digit": "OM",
+    "iso3digit": "OMN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 577,
+    "countryName": "Other Africa, not elsewhere specified",
+    "countryNameAbbr": "Other Africa, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 490,
+    "countryName": "Other Asia, not elsewhere specified",
+    "countryNameAbbr": "Other Asia, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 568,
+    "countryName": "Other Europe, not elsewhere specified",
+    "countryNameAbbr": "Other Europe, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 586,
+    "countryName": "Pakistan",
+    "countryNameAbbr": "Pakistan",
+    "countryComments": "",
+    "iso2digit": "PK",
+    "iso3digit": "PAK",
+    "startYear": 1972,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 585,
+    "countryName": "Palau",
+    "countryNameAbbr": "Palau",
+    "countryComments": "",
+    "iso2digit": "PW",
+    "iso3digit": "PLW",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 591,
+    "countryName": "Panama",
+    "countryNameAbbr": "Panama",
+    "countryComments": "",
+    "iso2digit": "PA",
+    "iso3digit": "PAN",
+    "startYear": 1978,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 598,
+    "countryName": "Papua New Guinea",
+    "countryNameAbbr": "Papua New Guinea",
+    "countryComments": "",
+    "iso2digit": "PG",
+    "iso3digit": "PNG",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 600,
+    "countryName": "Paraguay",
+    "countryNameAbbr": "Paraguay",
+    "countryComments": "",
+    "iso2digit": "PY",
+    "iso3digit": "PRY",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 459,
+    "countryName": "Peninsula Malaysia",
+    "countryNameAbbr": "Peninsula Malaysia",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1963"
+  },
+  {
+    "countryCode": 604,
+    "countryName": "Peru",
+    "countryNameAbbr": "Peru",
+    "countryComments": "",
+    "iso2digit": "PE",
+    "iso3digit": "PER",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 608,
+    "countryName": "Philippines",
+    "countryNameAbbr": "Philippines",
+    "countryComments": "",
+    "iso2digit": "PH",
+    "iso3digit": "PHL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 612,
+    "countryName": "Pitcairn",
+    "countryNameAbbr": "Pitcairn",
+    "countryComments": "",
+    "iso2digit": "PN",
+    "iso3digit": "PCN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 616,
+    "countryName": "Poland",
+    "countryNameAbbr": "Poland",
+    "countryComments": "",
+    "iso2digit": "PL",
+    "iso3digit": "POL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 620,
+    "countryName": "Portugal",
+    "countryNameAbbr": "Portugal",
+    "countryComments": "",
+    "iso2digit": "PT",
+    "iso3digit": "PRT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 634,
+    "countryName": "Qatar",
+    "countryNameAbbr": "Qatar",
+    "countryComments": "",
+    "iso2digit": "QA",
+    "iso3digit": "QAT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 410,
+    "countryName": "Republic of Korea",
+    "countryNameAbbr": "Rep. of Korea",
+    "countryComments": "",
+    "iso2digit": "KR",
+    "iso3digit": "KOR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 498,
+    "countryName": "Republic of Moldova",
+    "countryNameAbbr": "Rep. of Moldova",
+    "countryComments": "",
+    "iso2digit": "MD",
+    "iso3digit": "MDA",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 636,
+    "countryName": "Rest of America, not elsewhere specified",
+    "countryNameAbbr": "Rest of America, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 638,
+    "countryName": "R‚union",
+    "countryNameAbbr": "R‚union",
+    "countryComments": "",
+    "iso2digit": "RE",
+    "iso3digit": "REU",
+    "startYear": 1962,
+    "endYear": "1995"
+  },
+  {
+    "countryCode": 642,
+    "countryName": "Romania",
+    "countryNameAbbr": "Romania",
+    "countryComments": "",
+    "iso2digit": "RO",
+    "iso3digit": "ROU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 643,
+    "countryName": "Russian Federation",
+    "countryNameAbbr": "Russian Federation",
+    "countryComments": "",
+    "iso2digit": "RU",
+    "iso3digit": "RUS",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 646,
+    "countryName": "Rwanda",
+    "countryNameAbbr": "Rwanda",
+    "countryComments": "",
+    "iso2digit": "RW",
+    "iso3digit": "RWA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 647,
+    "countryName": "Ryukyu Island",
+    "countryNameAbbr": "Ryukyu Isd",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1972"
+  },
+  {
+    "countryCode": 461,
+    "countryName": "Sabah",
+    "countryNameAbbr": "Sabah",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1963"
+  },
+  {
+    "countryCode": 652,
+    "countryName": "Saint Barth‚lemy",
+    "countryNameAbbr": "Saint Barth‚lemy",
+    "countryComments": "",
+    "iso2digit": "BL",
+    "iso3digit": "BLM",
+    "startYear": 2013,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 654,
+    "countryName": "Saint Helena",
+    "countryNameAbbr": "Saint Helena",
+    "countryComments": "",
+    "iso2digit": "SH",
+    "iso3digit": "SHN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 659,
+    "countryName": "Saint Kitts and Nevis",
+    "countryNameAbbr": "Saint Kitts and Nevis",
+    "countryComments": "",
+    "iso2digit": "KN",
+    "iso3digit": "KNA",
+    "startYear": 1981,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 658,
+    "countryName": "Saint Kitts, Nevis and Anguilla",
+    "countryNameAbbr": "Saint Kitts, Nevis and Anguilla",
+    "countryComments": "",
+    "iso2digit": "KN",
+    "iso3digit": "KNA",
+    "startYear": 1962,
+    "endYear": "1980"
+  },
+  {
+    "countryCode": 662,
+    "countryName": "Saint Lucia",
+    "countryNameAbbr": "Saint Lucia",
+    "countryComments": "",
+    "iso2digit": "LC",
+    "iso3digit": "LCA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 534,
+    "countryName": "Saint Maarten (Dutch part)",
+    "countryNameAbbr": "Saint Maarten",
+    "countryComments": "",
+    "iso2digit": "SX",
+    "iso3digit": "SXM",
+    "startYear": 2010,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 666,
+    "countryName": "Saint Pierre and Miquelon",
+    "countryNameAbbr": "Saint Pierre and Miquelon",
+    "countryComments": "",
+    "iso2digit": "PM",
+    "iso3digit": "SPM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 670,
+    "countryName": "Saint Vincent and the Grenadines",
+    "countryNameAbbr": "Saint Vincent and the Grenadines",
+    "countryComments": "",
+    "iso2digit": "VC",
+    "iso3digit": "VCT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 882,
+    "countryName": "Samoa",
+    "countryNameAbbr": "Samoa",
+    "countryComments": "",
+    "iso2digit": "WS",
+    "iso3digit": "WSM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 674,
+    "countryName": "San Marino",
+    "countryNameAbbr": "San Marino",
+    "countryComments": "",
+    "iso2digit": "SM",
+    "iso3digit": "SMR",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 678,
+    "countryName": "Sao Tome and Principe",
+    "countryNameAbbr": "Sao Tome and Principe",
+    "countryComments": "",
+    "iso2digit": "ST",
+    "iso3digit": "STP",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 457,
+    "countryName": "Sarawak",
+    "countryNameAbbr": "Sarawak",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1963"
+  },
+  {
+    "countryCode": 682,
+    "countryName": "Saudi Arabia",
+    "countryNameAbbr": "Saudi Arabia",
+    "countryComments": "",
+    "iso2digit": "SA",
+    "iso3digit": "SAU",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 686,
+    "countryName": "Senegal",
+    "countryNameAbbr": "Senegal",
+    "countryComments": "",
+    "iso2digit": "SN",
+    "iso3digit": "SEN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 688,
+    "countryName": "Serbia",
+    "countryNameAbbr": "Serbia",
+    "countryComments": "",
+    "iso2digit": "RS",
+    "iso3digit": "SRB",
+    "startYear": 2006,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 891,
+    "countryName": "Serbia and Montenegro",
+    "countryNameAbbr": "Serbia and Montenegro",
+    "countryComments": "",
+    "iso2digit": "CS",
+    "iso3digit": "SCG",
+    "startYear": 1992,
+    "endYear": "2005"
+  },
+  {
+    "countryCode": 690,
+    "countryName": "Seychelles",
+    "countryNameAbbr": "Seychelles",
+    "countryComments": "",
+    "iso2digit": "SC",
+    "iso3digit": "SYC",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 694,
+    "countryName": "Sierra Leone",
+    "countryNameAbbr": "Sierra Leone",
+    "countryComments": "",
+    "iso2digit": "SL",
+    "iso3digit": "SLE",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 698,
+    "countryName": "Sikkim",
+    "countryNameAbbr": "Sikkim",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1974"
+  },
+  {
+    "countryCode": 702,
+    "countryName": "Singapore",
+    "countryNameAbbr": "Singapore",
+    "countryComments": "",
+    "iso2digit": "SG",
+    "iso3digit": "SGP",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 703,
+    "countryName": "Slovakia",
+    "countryNameAbbr": "Slovakia",
+    "countryComments": "",
+    "iso2digit": "SK",
+    "iso3digit": "SVK",
+    "startYear": 1993,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 705,
+    "countryName": "Slovenia",
+    "countryNameAbbr": "Slovenia",
+    "countryComments": "",
+    "iso2digit": "SI",
+    "iso3digit": "SVN",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 711,
+    "countryName": "Southern African Customs Union",
+    "countryNameAbbr": "So. African Customs Union",
+    "countryComments": "",
+    "iso2digit": "ZA",
+    "iso3digit": "ZAF",
+    "startYear": 1962,
+    "endYear": "1999"
+  },
+  {
+    "countryCode": 90,
+    "countryName": "Solomon Islands",
+    "countryNameAbbr": "Solomon Isds",
+    "countryComments": "",
+    "iso2digit": "SB",
+    "iso3digit": "SLB",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 706,
+    "countryName": "Somalia",
+    "countryNameAbbr": "Somalia",
+    "countryComments": "",
+    "iso2digit": "SO",
+    "iso3digit": "SOM",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 710,
+    "countryName": "South Africa",
+    "countryNameAbbr": "South Africa",
+    "countryComments": "",
+    "iso2digit": "ZA",
+    "iso3digit": "ZAF",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 239,
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "countryNameAbbr": "South Georgia and the South Sandwich Islands",
+    "countryComments": "",
+    "iso2digit": "GS",
+    "iso3digit": "SGS",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 728,
+    "countryName": "South Sudan",
+    "countryNameAbbr": "South Sudan",
+    "countryComments": "",
+    "iso2digit": "SS",
+    "iso3digit": "SSD",
+    "startYear": 2012,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 724,
+    "countryName": "Spain",
+    "countryNameAbbr": "Spain",
+    "countryComments": "",
+    "iso2digit": "ES",
+    "iso3digit": "ESP",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 839,
+    "countryName": "Special Categories",
+    "countryNameAbbr": "Special Categories",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 144,
+    "countryName": "Sri Lanka",
+    "countryNameAbbr": "Sri Lanka",
+    "countryComments": "",
+    "iso2digit": "LK",
+    "iso3digit": "LKA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 275,
+    "countryName": "State of Palestine",
+    "countryNameAbbr": "State of Palestine",
+    "countryComments": "",
+    "iso2digit": "PS",
+    "iso3digit": "PSE",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 729,
+    "countryName": "Sudan",
+    "countryNameAbbr": "Sudan",
+    "countryComments": "Refers to the new Sudan, now excluding the southern part.",
+    "iso2digit": "SD",
+    "iso3digit": "SDN",
+    "startYear": 2012,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 740,
+    "countryName": "Suriname",
+    "countryNameAbbr": "Suriname",
+    "countryComments": "",
+    "iso2digit": "SR",
+    "iso3digit": "SUR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 748,
+    "countryName": "Swaziland",
+    "countryNameAbbr": "Swaziland",
+    "countryComments": "",
+    "iso2digit": "SZ",
+    "iso3digit": "SWZ",
+    "startYear": 2000,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 752,
+    "countryName": "Sweden",
+    "countryNameAbbr": "Sweden",
+    "countryComments": "",
+    "iso2digit": "SE",
+    "iso3digit": "SWE",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 757,
+    "countryName": "Switzerland, Liechtenstein",
+    "countryNameAbbr": "Switzerland",
+    "countryComments": "Liechtenstein",
+    "iso2digit": "CH",
+    "iso3digit": "CHE",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 760,
+    "countryName": "Syria",
+    "countryNameAbbr": "Syria",
+    "countryComments": "",
+    "iso2digit": "SY",
+    "iso3digit": "SYR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 762,
+    "countryName": "Tajikistan",
+    "countryNameAbbr": "Tajikistan",
+    "countryComments": "",
+    "iso2digit": "TJ",
+    "iso3digit": "TJK",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 807,
+    "countryName": "The Former Yugoslav Republic of Macedonia",
+    "countryNameAbbr": "TFYR of Macedonia",
+    "countryComments": "",
+    "iso2digit": "MK",
+    "iso3digit": "MKD",
+    "startYear": 1993,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 764,
+    "countryName": "Thailand",
+    "countryNameAbbr": "Thailand",
+    "countryComments": "",
+    "iso2digit": "TH",
+    "iso3digit": "THA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 626,
+    "countryName": "Timor-Leste",
+    "countryNameAbbr": "Timor-Leste",
+    "countryComments": "",
+    "iso2digit": "TL",
+    "iso3digit": "TLS",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 768,
+    "countryName": "Togo",
+    "countryNameAbbr": "Togo",
+    "countryComments": "",
+    "iso2digit": "TG",
+    "iso3digit": "TGO",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 772,
+    "countryName": "Tokelau",
+    "countryNameAbbr": "Tokelau",
+    "countryComments": "",
+    "iso2digit": "TK",
+    "iso3digit": "TKL",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 776,
+    "countryName": "Tonga",
+    "countryNameAbbr": "Tonga",
+    "countryComments": "",
+    "iso2digit": "TO",
+    "iso3digit": "TON",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 780,
+    "countryName": "Trinidad and Tobago",
+    "countryNameAbbr": "Trinidad and Tobago",
+    "countryComments": "",
+    "iso2digit": "TT",
+    "iso3digit": "TTO",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 788,
+    "countryName": "Tunisia",
+    "countryNameAbbr": "Tunisia",
+    "countryComments": "",
+    "iso2digit": "TN",
+    "iso3digit": "TUN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 792,
+    "countryName": "Turkey",
+    "countryNameAbbr": "Turkey",
+    "countryComments": "",
+    "iso2digit": "TR",
+    "iso3digit": "TUR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 795,
+    "countryName": "Turkmenistan",
+    "countryNameAbbr": "Turkmenistan",
+    "countryComments": "",
+    "iso2digit": "TM",
+    "iso3digit": "TKM",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 796,
+    "countryName": "Turks and Caicos Islands",
+    "countryNameAbbr": "Turks and Caicos Isds",
+    "countryComments": "",
+    "iso2digit": "TC",
+    "iso3digit": "TCA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 798,
+    "countryName": "Tuvalu",
+    "countryNameAbbr": "Tuvalu",
+    "countryComments": "",
+    "iso2digit": "TV",
+    "iso3digit": "TUV",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 800,
+    "countryName": "Uganda",
+    "countryNameAbbr": "Uganda",
+    "countryComments": "",
+    "iso2digit": "UG",
+    "iso3digit": "UGA",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 804,
+    "countryName": "Ukraine",
+    "countryNameAbbr": "Ukraine",
+    "countryComments": "",
+    "iso2digit": "UA",
+    "iso3digit": "UKR",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 784,
+    "countryName": "United Arab Emirates",
+    "countryNameAbbr": "United Arab Emirates",
+    "countryComments": "",
+    "iso2digit": "AE",
+    "iso3digit": "ARE",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 826,
+    "countryName": "United Kingdom",
+    "countryNameAbbr": "United Kingdom",
+    "countryComments": "",
+    "iso2digit": "GB",
+    "iso3digit": "GBR",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 834,
+    "countryName": "United Republic of Tanzania",
+    "countryNameAbbr": "United Rep. of Tanzania",
+    "countryComments": "",
+    "iso2digit": "TZ",
+    "iso3digit": "TZA",
+    "startYear": 1965,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 581,
+    "countryName": "United States Minor Outlying Islands",
+    "countryNameAbbr": "United States Minor Outlying Islands",
+    "countryComments": "United States Minor Outlying Islands",
+    "iso2digit": "UM",
+    "iso3digit": "UMI",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 858,
+    "countryName": "Uruguay",
+    "countryNameAbbr": "Uruguay",
+    "countryComments": "",
+    "iso2digit": "UY",
+    "iso3digit": "URY",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 849,
+    "countryName": "US Miscellaneous Pacific Islands",
+    "countryNameAbbr": "US Misc. Pacific Isds",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "1962"
+  },
+  {
+    "countryCode": 850,
+    "countryName": "US Virgin Islands",
+    "countryNameAbbr": "US Virgin Isds",
+    "countryComments": "",
+    "iso2digit": "VI",
+    "iso3digit": "VIR",
+    "startYear": 1962,
+    "endYear": "1980"
+  },
+  {
+    "countryCode": 842,
+    "countryName": "USA, Puerto Rico and US Virgin Islands",
+    "countryNameAbbr": "USA",
+    "countryComments": "Including Puerto Rico and US Virgin Islands",
+    "iso2digit": "US",
+    "iso3digit": "USA",
+    "startYear": 1981,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 841,
+    "countryName": "USA and Puerto Rico",
+    "countryNameAbbr": "USA (before 1981)",
+    "countryComments": "Including Puerto Rico",
+    "iso2digit": "US",
+    "iso3digit": "USA",
+    "startYear": 1962,
+    "endYear": "1980"
+  },
+  {
+    "countryCode": 860,
+    "countryName": "Uzbekistan",
+    "countryNameAbbr": "Uzbekistan",
+    "countryComments": "",
+    "iso2digit": "UZ",
+    "iso3digit": "UZB",
+    "startYear": 1992,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 548,
+    "countryName": "Vanuatu",
+    "countryNameAbbr": "Vanuatu",
+    "countryComments": "",
+    "iso2digit": "VU",
+    "iso3digit": "VUT",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 862,
+    "countryName": "Venezuela",
+    "countryNameAbbr": "Venezuela",
+    "countryComments": "",
+    "iso2digit": "VE",
+    "iso3digit": "VEN",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 704,
+    "countryName": "Viet Nam",
+    "countryNameAbbr": "Viet Nam",
+    "countryComments": "",
+    "iso2digit": "VN",
+    "iso3digit": "VNM",
+    "startYear": 1975,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 876,
+    "countryName": "Wallis and Futuna Islands",
+    "countryNameAbbr": "Wallis and Futuna Isds",
+    "countryComments": "",
+    "iso2digit": "WF",
+    "iso3digit": "WLF",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 879,
+    "countryName": "Western Asia, not elsewhere specified",
+    "countryNameAbbr": "Western Asia, nes",
+    "countryComments": "",
+    "iso2digit": "N/A",
+    "iso3digit": "N/A",
+    "startYear": 1962,
+    "endYear": "2004"
+  },
+  {
+    "countryCode": 732,
+    "countryName": "Western Sahara",
+    "countryNameAbbr": "Western Sahara",
+    "countryComments": "",
+    "iso2digit": "EH",
+    "iso3digit": "ESH",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 0,
+    "countryName": "World",
+    "countryNameAbbr": "World",
+    "countryComments": "",
+    "iso2digit": "WL",
+    "iso3digit": "WLD",
+    "startYear": 1962,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 887,
+    "countryName": "Yemen",
+    "countryNameAbbr": "Yemen",
+    "countryComments": "",
+    "iso2digit": "YE",
+    "iso3digit": "YEM",
+    "startYear": 1991,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 894,
+    "countryName": "Zambia",
+    "countryNameAbbr": "Zambia",
+    "countryComments": "",
+    "iso2digit": "ZM",
+    "iso3digit": "ZMB",
+    "startYear": 1965,
+    "endYear": "Now"
+  },
+  {
+    "countryCode": 716,
+    "countryName": "Zimbabwe",
+    "countryNameAbbr": "Zimbabwe",
+    "countryComments": "",
+    "iso2digit": "ZW",
+    "iso3digit": "ZWE",
+    "startYear": 1965,
+    "endYear": "Now"
+  }
+]
