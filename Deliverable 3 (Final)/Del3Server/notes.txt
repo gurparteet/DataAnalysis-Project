@@ -1,0 +1,49 @@
+2022-11-05
+    today we did:
+        fixed the login message size,
+        added wait to login close before mainUI launches
+        added a facade that holds mainUI
+        created country object
+        createds list of country object, filled with json
+        redid mainui
+        resized country dropdown
+        country dropdown holds country data
+        -note;should we have a list of start yearsfrom 1962- to now, or should the start year list start at the start year of the country object relative to the name
+
+
+        -for next time:
+            implement start year system, on click listener to find the start yuear of country from the drop down selection
+            implement end year system, on click listener to find the end year of country from the drop down selection
+            how to add all the selected data from the lists to a userselection object, (onclick listener potentially?)
+            -states? potential: statre of chose country, can pick start year, if country is njot selected they cannot choose start year etc
+            -let david know whats happening
+             see whats next on the list
+
+2022-11-08
+    completed today:
+        -Event listeners have been added to all buttons
+        -Clicking on recalculate will print out all the set
+            data from the user selection object
+        -Error messages are displayed for invalid data selection
+        *(First 5 Countries on list currently not allowed for fetching)
+        -Clicking recalculate without filling in all fields properly will give error message
+    
+    still needs to be done:
+        -Modular way of adding analysis types to GUI analysis list
+        *Analsis types should be stand alone classes
+        -Using user selection object data to fetch data and perform analysis
+        -Using result object from analysis to create viewers before adding them to GUI
+
+2022-11-11
+    completed today:
+        - Refactored event listeners so that all events are handled in the mainUI facade
+        - Created external country exclusion file for system to cross check which countries are allowed for fetching
+            this included the AllowFetch class that parses the json file
+        - User selection object now takes in the users selected countries 3 digit iso instead of the full name
+        - Implemented analysis clesses (following strategy design) that call a fully functional data fetcher
+        - Implemented analysis factory class for dynamically instantiating the necessary analysis class
+        - Implemented result object that stores data returned from analysis classes after computation
+
+2022-11-24
+    completed today:
+        -created
